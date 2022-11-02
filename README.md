@@ -1,0 +1,2 @@
+# gitMavenweb
+pusing maven project
